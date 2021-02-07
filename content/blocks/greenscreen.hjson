@@ -1,0 +1,8 @@
+type: Floor
+name: Greenscreen
+variants: 1
+solid: false
+placeableOn: true
+emitLight: true
+lightRadius: 100
+lightColor: FFFFFF

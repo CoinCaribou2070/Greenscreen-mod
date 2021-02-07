@@ -1,0 +1,6 @@
+name: "greenscreen"
+displayName: "[#00FF00]Green[#FFFFFF] Screen"
+author: "[#cc6d00]Chickenloser"
+description: "Adds a greenscreen block to the editor"
+version:"1.0"
+minGameVersion: "123.1"
